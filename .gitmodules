@@ -4,3 +4,6 @@
 [submodule "FlowX-FE"]
 	path = FlowX-FE
 	url = https://github.com/nguyengiapalth/FlowX-FE
+[submodule "reports"]
+	path = reports
+	url = https://github.com/nguyengiapalth/FlowX-report
